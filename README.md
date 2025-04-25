@@ -55,4 +55,5 @@ Start the backend Node.js server:
 npm start
 ```
 ### 7️⃣ Start the Frontend (in a new terminal)
+Open a new terminal window and navigate to the client directory. Then, start the React frontend development server:
 
