@@ -46,4 +46,6 @@ cd gallery_app
 
 ### 5️⃣ Install Dependencies
 Install the necessary Node.js packages for the backend:
-
+```Bash
+npm install
+```
