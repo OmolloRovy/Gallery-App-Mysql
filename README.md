@@ -39,7 +39,7 @@ gti clone https://github.com/OmolloRovy/Gallery-App-Mysql.git
 ### 4️⃣ Go to the Project Folder
 Navigate to the main project directory:
 
-```
+``` cmd
 cd gallery_app
 
 ```
