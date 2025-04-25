@@ -30,5 +30,5 @@ CREATE TABLE images (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-### 
-
+### 3️⃣ Clone the Project
+Clone the project repository from GitHub to your local machine:
