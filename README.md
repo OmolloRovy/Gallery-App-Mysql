@@ -23,3 +23,11 @@ CREATE DATABASE gallery;
 
 ### 2️⃣ Create a Table
 Next, create the images table within the gallery database. This table will store the image file paths and creation timestamps:
+```sql
+CREATE TABLE images (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  photo VARCHAR(255),
+  created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+```
+
