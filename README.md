@@ -32,3 +32,9 @@ CREATE TABLE images (
 ```
 ### 3️⃣ Clone the Project
 Clone the project repository from GitHub to your local machine:
+```sql
+gti clone https://github.com/OmolloRovy/Gallery-App-Mysql.git
+
+```
+
+
