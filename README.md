@@ -19,3 +19,6 @@ First, you need to create the MySQL database for the application. You can do thi
 
 ```sql
 CREATE DATABASE gallery;
+```
+
+### 2️⃣ Create a Table
