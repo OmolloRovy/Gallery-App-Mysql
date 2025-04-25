@@ -44,4 +44,6 @@ cd gallery_app
 
 ```
 
+### 5️⃣ Install Dependencies
+
 
