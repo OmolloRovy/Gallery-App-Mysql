@@ -49,3 +49,5 @@ Install the necessary Node.js packages for the backend:
 ```Bash
 npm install
 ```
+### 6️⃣ Start the Server
+
