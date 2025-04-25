@@ -36,5 +36,5 @@ Clone the project repository from GitHub to your local machine:
 gti clone https://github.com/OmolloRovy/Gallery-App-Mysql.git
 
 ```
-
+### 4️⃣ Go to the Project Folder
 
