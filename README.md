@@ -54,4 +54,5 @@ Start the backend Node.js server:
 ```Bash
 npm start
 ```
+### 7️⃣ Start the Frontend (in a new terminal)
 
